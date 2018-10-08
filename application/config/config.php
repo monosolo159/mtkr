@@ -23,9 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-// $config['base_url'] = 'http://indigo.project57.net/';
-// $config['base_url'] = 'http://192.168.1.4/product_detail/';
 $config['base_url'] = 'http://localhost/mtkr/';
+// $config['base_url'] = 'http://192.168.0.102/mtkr/';
 // $config['base_url'] = 'https://www.mittaikhuru.co.th/';
 
 

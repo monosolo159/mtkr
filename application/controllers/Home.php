@@ -25,6 +25,11 @@ class Home extends CI_Controller {
 		$this->LoadPage($value);
 	}
 
+	public function index2(){
+		$this->load->view('front/body2');
+
+	}
+
 	public function team(){
 		// $getHomepage = $this->Culturalmodel->getHomepage();
 		$value = array(
